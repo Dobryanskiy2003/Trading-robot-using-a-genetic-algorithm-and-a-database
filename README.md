@@ -1,0 +1,1 @@
+# Trading-robot-using-a-genetic-algorithm-and-a-database
